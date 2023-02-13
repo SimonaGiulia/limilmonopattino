@@ -1,0 +1,48 @@
+body{
+  background-image: url(background.jpg);
+  display:inline-block;
+  background-size: cover;
+}
+
+header{
+  color: #00FF00;
+  text-align: center;
+}
+
+.prenotazioni{
+  background-color: #00FF00;
+  padding: 10px;
+  margin: 10px;
+  width: 1020px;
+  height: 40px;
+  box-sizing: border-box;
+  display: inline-block;
+  line-height: 1px;
+  text-align: center;
+}
+
+main{
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 400PX;
+  width: 1020px;
+  padding: 50px;
+  margin-left: 180PX;
+  border-radius: 20px;
+  text-align: center;
+  align-content: center;
+}
+
+.clienti{
+  text-align-last:left;
+  padding: 30PX;
+}
+
+.w3-light-grey w3-round{
+  background-color: rgb(255, 165, 0);
+}
+
+img{
+  width: 200px;
+  height: 80px;
+}
